@@ -139,9 +139,18 @@
 .forgot-password {
     color: rgb(104, 145, 162);
 }
+.register-user {
+    color: rgb(104, 145, 162);
+    float: right;
+}
 
 .forgot-password:hover,
 .forgot-password:active,
 .forgot-password:focus{
+    color: rgb(12, 97, 33);
+}
+.register-user:hover,
+.register-user:active,
+.register-user:focus{
     color: rgb(12, 97, 33);
 }
